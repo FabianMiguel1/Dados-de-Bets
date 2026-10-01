@@ -1,13 +1,13 @@
 # 🎲 Por Trás das Bets: Dinheiro, Endividamento e Impactos Sociais no Brasil
 
-Este projeto apresenta uma análise aprofundada sobre o impacto das apostas desportivas (Bets) no Brasil, processada através de Python e transformada numa dashboard interativa no **Qlik Sense**.
+Este projeto apresenta uma análise aprofundada sobre o impacto das apostas desportivas (Bets) no Brasil, processada através de Python e visualizada num dashboard interativo no **Qlik Sense**.
 
 ---
 
 ## 📊 Visualização do Dashboard (Qlik Sense)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c37c61d1-2cb2-4df8-ad0b-75b1aa112f68" alt="Dashboard Bets Brasil" width="100%">
+  <img src="https://github.com/user-attachments/assets/594097ec-e135-403e-bb44-37c3861dc050" alt="Dashboard Bets Brasil" width="100%">
 </p>
 
 ---
@@ -26,7 +26,7 @@ Este projeto apresenta uma análise aprofundada sobre o impacto das apostas desp
 ### Por Faixa Etária
 * **31 a 40 anos:** Representa a faixa etária com maior volume de apostadores.
 * **18 a 25 anos & 25 a 30 anos:** Seguem muito próximos no topo do consumo.
-* **Outras faixas:** Presença significativa também nas faixas dos 41 a 50 anos, 51 a 60 anos e 61 a 70 anos.
+* **Outras faixas:** Presença significativa também nas faixas de 41 a 50 anos, 51 a 60 anos e 61 a 70 anos.
 
 ### Por Género
 * **Apostadores Homens:** 71.1%
@@ -37,8 +37,8 @@ Este projeto apresenta uma análise aprofundada sobre o impacto das apostas desp
 ## 🐍 Pipeline do Projeto (Python & Qlik Sense)
 
 1. **Tratamento de Dados (Python):** Limpeza, estruturação e cruzamento de bases de dados utilizando bibliotecas como `pandas`.
-2. **Exportação:** Os dados tratados foram convertidos para o formato `.csv` otimizado para o consumo no ecossistema Qlik Sense.
-3. **Visualização (Qlik Sense):** Construção de KPIs dinâmicos, gráficos de barras horizontais para o perfil etário e gráficos circulares para a distribuição de género.
+2. **Exportação:** Os dados tratados foram convertidos para o formato `.csv` otimizado para consumo no Qlik Sense.
+3. **Visualização (Qlik Sense):** Construção de KPIs dinâmicos, gráficos de barras horizontais e gráficos circulares.
 
 ---
 
