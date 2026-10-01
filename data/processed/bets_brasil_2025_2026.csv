@@ -1,0 +1,43 @@
+﻿ano,periodo,fonte,tema,indicador,valor,unidade,tipo_dado,abrangencia,observacao
+2025,Janeiro,TCU,Bolsa Família,Benefício médio familiar,673.9,R$,observado,Brasil,Valor médio informado pelo TCU.
+2025,Janeiro,TCU,Bolsa Família,Famílias com até 2% da renda comprometida,81.97,%,estimativa,Brasil,Cálculo considerando renda total e retorno de 85% dos valores apostados aos ganhadores.
+2025,Janeiro,TCU,Bolsa Família,Famílias com até 2% da renda comprometida,3645162.0,famílias,estimativa,Brasil,Número informado pelo TCU.
+2025,Janeiro,TCU,Bolsa Família,Famílias com mais de 2% da renda comprometida,18.03,%,estimativa,Brasil,O TCU classificou esse grupo como situação crítica de comprometimento de necessidades básicas e alto risco social.
+2025,Janeiro,TCU,Bolsa Família,Famílias com mais de 2% da renda comprometida,801962.0,famílias,estimativa,Brasil,Número informado pelo TCU.
+2025,Janeiro,TCU,Bolsa Família,Famílias com renda própria declarada,83.93,%,observado,Brasil,Importante para interpretar a origem dos recursos.
+2025,Janeiro,TCU,Bolsa Família,Famílias que fizeram transferências,4440000.0,famílias,estimativa,Brasil,"Aproximadamente 21,9% das famílias analisadas."
+2025,Janeiro,TCU,Bolsa Família,Famílias responsáveis por 80% das transferências,4.37,%,estimativa,Brasil,Pequena parcela das famílias concentrou cerca de 80% do montante transferido.
+2025,Janeiro,TCU,Bolsa Família,Transferências para apostas online,3698000000.0,R$,observado,Brasil,Transferências identificadas para contas de operadores de apostas por indivíduos identificados como beneficiários do programa.
+2025,1º semestre,TCU / Ministério da Fazenda,Comportamento financeiro,Gasto efetivo médio mensal por apostador,164.0,R$/mês,estimativa,Brasil,Média estimada a partir do gasto efetivo dos apostadores ativos.
+2025,1º semestre,TCU / Ministério da Fazenda,Comportamento financeiro,Gasto efetivo médio semestral por apostador,983.0,R$/semestre,estimativa,Brasil,Valor médio informado para apostadores ativos.
+2025,1º semestre,TCU / Ministério da Fazenda,Mercado,Apostadores em operadores autorizados,17700000.0,pessoas,observado,Brasil,Brasileiros que realizaram apostas em operadores autorizados no primeiro semestre de 2025.
+2025,1º semestre,TCU / Ministério da Fazenda,Mercado,Destinações sociais,2140000000.0,R$,observado,Brasil,Destinações previstas na legislação das apostas.
+2025,1º semestre,TCU / Ministério da Fazenda,Mercado,Receita bruta do mercado regulado (GGR),17400000000.0,R$,observado,Brasil,GGR: diferença entre os valores apostados e os prêmios pagos aos jogadores.
+2025,1º semestre,TCU / Ministério da Fazenda,Mercado,Tributos federais arrecadados,3800000000.0,R$,observado,Brasil,Arrecadação federal relacionada ao setor no primeiro semestre de 2025.
+2025,1º semestre,Ministério da Fazenda / SPA,Mercado ilegal,Páginas de apostas retiradas do ar,15463.0,páginas,observado,Brasil,Páginas retiradas do ar pela Anatel desde outubro de 2024 até o fim do primeiro semestre de 2025.
+2025,21/02 a 01/03,DataSenado,Percepção social,Brasileiros que avaliam positivamente cadastro de pessoas com vício em jogos,54.0,%,pesquisa de opinião,Brasil,Pesquisa nacional com 5.039 entrevistados.
+2025,21/02 a 01/03,DataSenado,Percepção social,Brasileiros que consideram importante combater lavagem de dinheiro em jogos,82.0,%,pesquisa de opinião,Brasil,Pesquisa nacional com 5.039 entrevistados.
+2025,21/02 a 01/03,DataSenado,Percepção social,Brasileiros que consideram importante evitar endividamento com jogos,77.0,%,pesquisa de opinião,Brasil,"Pesquisa nacional com 5.039 entrevistados. Pergunta relacionada a jogos, não exclusivamente às bets."
+2025,1º semestre,Ministério da Fazenda / SPA,Perfil,Apostadores de 18 a 25 anos,22.4,%,observado,Brasil,Faixa etária.
+2025,1º semestre,Ministério da Fazenda / SPA,Perfil,Apostadores de 25 a 30 anos,22.2,%,observado,Brasil,Faixa etária.
+2025,1º semestre,Ministério da Fazenda / SPA,Perfil,Apostadores de 31 a 40 anos,27.8,%,observado,Brasil,Faixa etária.
+2025,1º semestre,Ministério da Fazenda / SPA,Perfil,Apostadores de 41 a 50 anos,16.9,%,observado,Brasil,Faixa etária.
+2025,1º semestre,Ministério da Fazenda / SPA,Perfil,Apostadores de 51 a 60 anos,7.8,%,observado,Brasil,Faixa etária.
+2025,1º semestre,Ministério da Fazenda / SPA,Perfil,Apostadores de 61 a 70 anos,2.1,%,observado,Brasil,Faixa etária.
+2025,1º semestre,Ministério da Fazenda / SPA,Perfil,Apostadores homens,71.0,%,observado,Brasil,Distribuição por sexo dos apostadores.
+2025,1º semestre,Ministério da Fazenda / SPA,Perfil,Apostadores mulheres,28.9,%,observado,Brasil,Distribuição por sexo dos apostadores.
+2026,Estudo publicado em setembro,Insper + Stone,Crédito,Aumento na dívida/atraso de cartão,38.7,%,efeito estimado,Brasil,Variação estimada no primeiro ano após o início das apostas.
+2026,Estudo publicado em setembro,Insper + Stone,Crédito,Redução do acesso ao crédito,-16.0,%,efeito estimado,Brasil,Redução observada/estimada no limite de crédito em comparação com o grupo de controle.
+2026,Estudo publicado em setembro,Insper + Stone,Endividamento,Aumento da inadimplência após início das apostas,20.0,%,efeito estimado,Brasil,Comparação entre novos apostadores e grupo de comparação. O estudo acompanha os 12 meses seguintes à primeira aposta.
+2026,Dados de julho,Sicredi,Endividamento,Inadimplência maior entre apostadores,40.0,%,associação observada,Amostra nacional do Sicredi,"Inadimplência 40% maior entre associados que apostaram em 2025, em comparação aos que não apostaram."
+2026,Julho,Sicredi,Endividamento,Pessoas analisadas no estudo,1300000.0,pessoas,amostra,Associados Sicredi,Pessoas físicas com operações de crédito ativas.
+2026,Maio,TCU,Mercado ilegal,Participação estimada do mercado ilegal - máximo,51.0,%,estimativa,Brasil,Estimativa de participação dos operadores ilegais no volume total de apostas.
+2026,Maio,TCU,Mercado ilegal,Participação estimada do mercado ilegal - mínimo,41.0,%,estimativa,Brasil,Estimativa de participação dos operadores ilegais no volume total de apostas.
+2026,27 de setembro,Ministério da Justiça e Segurança Pública / Ministério da Fazenda,Mercado ilegal,Sites suspeitos de apostas derrubados,506.0,sites,observado,Brasil,Domínios com indícios de oferta irregular de apostas.
+2026,Maio,TCU,Mercado ilegal,Volume anual potencial do mercado ilegal,40000000000.0,R$/ano,estimativa,Brasil,O TCU indica que a atividade ilegal pode corresponder a até aproximadamente R$ 40 bilhões anuais.
+2026,Estudo publicado em setembro,Insper + Stone,Perfil,População aproximada considerada no estudo,25000000.0,pessoas,estimativa,Brasil,Estimativa de pessoas que apostam utilizada no contexto do estudo.
+2026,25 a 27 de setembro,Ministério da Justiça e Segurança Pública,Publicidade ilegal,Anúncios suspeitos identificados no Google,1960.0,anúncios,observado,Brasil,Anúncios relacionados a sete domínios exibidos no Brasil no período monitorado.
+2026,27 de setembro,Ministério da Justiça e Segurança Pública,Publicidade ilegal,Canais e grupos de apostas identificados no Telegram,43.0,canais/grupos,observado,Brasil,Canais e grupos relacionados à divulgação de apostas e jogos de cassino online.
+2026,27 de setembro,Ministério da Justiça e Segurança Pública,Publicidade ilegal,Membros na rede de divulgação identificada no Telegram,212000.0,membros,observado,Brasil,Rede de divulgação de apostas identificada pelo Ciberlab.
+2026,Últimos cinco anos,TCU / IEPS,Saúde,Aumento da busca por atendimento no SUS,140.0,%,variação observada,Brasil,Aumento informado pelo TCU em atendimentos/buscas relacionados a problemas de jogo.
+2026,Estimativa anual,TCU / IEPS,Saúde,Impacto anual estimado na saúde pública,30000000000.0,R$/ano,estimativa,Brasil,"Estimativa citada pelo TCU com base em estudo do IEPS. Inclui despesas associadas a depressão, ansiedade e impactos relacionados a mortes por suicídio."
