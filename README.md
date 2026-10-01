@@ -1,79 +1,53 @@
-📊 Bets-Brasil: Análise de Dados, Endividamento e Impactos Sociais
+# 🎲 Por Trás das Bets: Dinheiro, Endividamento e Impactos Sociais no Brasil
 
-Este repositório documenta a análise de dados sobre o mercado de apostas esportivas ("bets") no Brasil, estruturada por meio de um pipeline em Python para limpeza e tratamento de dados, exportação para arquivos CSV e visualização interativa em um dashboard executivo no Qlik Sense.
+Este projeto apresenta uma análise aprofundada sobre o impacto das apostas desportivas (Bets) no Brasil, processada através de Python e transformada numa dashboard interativa no **Qlik Sense**.
 
-🚀 Visão Geral do Projeto
+---
 
-O objetivo deste projeto é consolidar dados públicos e estudos acadêmicos/governamentais para dimensionar o impacto financeiro, o perfil demográfico dos apostadores e as consequências socioeconômicas (como endividamento e inadimplência) do crescimento das apostas no Brasil.
+## 📊 Visualização do Dashboard (Qlik Sense)
 
-⚙️ Arquitetura e Pipeline de Dados
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c37c61d1-2cb2-4df8-ad0b-75b1aa112f68" alt="Dashboard Bets Brasil" width="100%">
+</p>
 
-Coleta e Tratamento (Python):
+---
 
-Os dados brutos foram extraídos de relatórios de órgãos oficiais e instituições de pesquisa.
+## 📈 Indicadores Chave (KPIs) - 1º Semestre de 2025
 
-Utilizou-se a linguagem Python (com bibliotecas como pandas e numpy) para limpeza, padronização de tipos, tratamento de valores nulos e estruturação das tabelas dimensionais e de fatos.
+* **Apostadores:** 17.7M de brasileiros ativos.
+* **Receita do Mercado:** 17.4 mil milhões de reais (17.4B).
+* **Transferências via Bolsa Família:** 3.7 mil milhões de reais destinados a apostas.
+* **Taxa de Inadimplência:** 20% associada ao comportamento de jogo.
 
-Exportação (CSV):
+---
 
-Após o processamento, os conjuntos de dados consolidados foram exportados em formato .csv otimizados para importação direta no Qlik Sense.
+## 👥 Perfil Demográfico dos Apostadores
 
-Visualização (Qlik Sense):
+### Por Faixa Etária
+* **31 a 40 anos:** Representa a faixa etária com maior volume de apostadores.
+* **18 a 25 anos & 25 a 30 anos:** Seguem muito próximos no topo do consumo.
+* **Outras faixas:** Presença significativa também nas faixas dos 41 a 50 anos, 51 a 60 anos e 61 a 70 anos.
 
-Construção de um painel de Business Intelligence (BI) focado em KPIs estratégicos e segmentação demográfica.
+### Por Género
+* **Apostadores Homens:** 71.1%
+* **Apostadores Mulheres:** 28.9%
 
-📈 Principais Indicadores (KPIs do Dashboard)
+---
 
-O painel no Qlik Sense exibe os seguintes indicadores chave (referentes ao 1º semestre de 2025):
+## 🐍 Pipeline do Projeto (Python & Qlik Sense)
 
-Apostadores: 17.7 Milhões de brasileiros engajados.
+1. **Tratamento de Dados (Python):** Limpeza, estruturação e cruzamento de bases de dados utilizando bibliotecas como `pandas`.
+2. **Exportação:** Os dados tratados foram convertidos para o formato `.csv` otimizado para o consumo no ecossistema Qlik Sense.
+3. **Visualização (Qlik Sense):** Construção de KPIs dinâmicos, gráficos de barras horizontais para o perfil etário e gráficos circulares para a distribuição de género.
 
-Receita do Mercado: R$ 17.4 Bilhões movimentados.
+---
 
-Bolsa Família: R$ 3.7 Bilhões direcionados para apostas (evidenciando impactos sociais críticos).
-
-Inadimplência: 20% de taxa associada ao endividamento pelo setor.
-
-👥 Perfil dos Apostadores
-
-O dashboard contempla duas análises demográficas centrais:
-
-Faixa Etária (Gráfico de Barras):
-
-Predominância expressiva da faixa de 31 a 40 anos, seguida de perto por jovens de 18 a 25 anos e adultos de 25 a 30 anos. Faixas acima de 50 anos apresentam menor volume, mas relevância para análise de risco.
-
-Gênero (Gráfico de Pizza):
-
-Apostadores Homens: 71.1%
-
-Apostadores Mulheres: 28.9%
-
-📚 Fontes de Dados
-
-Os dados consolidados e transformados originam-se das seguintes instituições:
-
-TCU (Tribunal de Contas da União)
-
-Ministério da Fazenda / Secretaria de Prêmios e Apostas (SPA)
-
-Ministério da Justiça e Segurança Pública (MJSP)
-
-DataSenado
-
-Insper + Stone
-
-Sicredi
-
-IEPS (Instituto de Estudos para Políticas de Saúde)
-
-Banco Central do Brasil
-
-🛠️ Como Utilizar
-
-Scripts Python: Os códigos de extração, tratamento e transformação estão localizados na pasta de scripts (src/ ou diretório raiz).
-
-Dados CSV: Os arquivos tratados prontos para carga estão na pasta data/.
-
-Qlik Sense: Importe os arquivos CSV para o aplicativo Qlik Sense correspondente (Bets-Brasil.qvf ou utilize a conexão de dados baseada nos CSVs).
-
-Desenvolvido como ferramenta de análise de impacto socioeconômico.
+## 📚 Fontes Oficiais de Dados
+* Tribunal de Contas da União (TCU)
+* Ministério da Fazenda / Secretaria de Prêmios e Apostas (SPA)
+* Ministério da Justiça e Segurança Pública (MJSP)
+* DataSenado
+* Insper + Stone
+* Sicredi
+* IEPS
+* Banco Central do Brasil
